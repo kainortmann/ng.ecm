@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=364f1145_002D9b7f_002D48ba_002D99d8_002D7fa7e4cdc9bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnCorrectColourCode #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::26126C23-2B6F-4035-858A-6390B0B0ACA2::net7.0::DocumentStorage.Domain.UnitTests.ValueObjects.CustomFieldTypeTests.ShouldReturnCorrectColourCode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42b979b2_002D77ee_002D4f07_002Dbaa0_002D3d5ded004991/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ToStringReturnsCode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::26126C23-2B6F-4035-858A-6390B0B0ACA2::net7.0::DocumentStorage.Domain.UnitTests.ValueObjects.CustomFieldTypeTests.ToStringReturnsCode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f85021c_002D6faf_002D4bb2_002Dabbe_002D8b980e36ac1a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnCorrectColourCode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::26126C23-2B6F-4035-858A-6390B0B0ACA2::net7.0::DocumentStorage.Domain.UnitTests.ValueObjects.CustomFieldTypeTests.ShouldReturnCorrectColourCode&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5e85b5b_002Db902_002D4d25_002Daf58_002D9077cca340ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnCorrectColourCode #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::26126C23-2B6F-4035-858A-6390B0B0ACA2::net7.0::DocumentStorage.Domain.UnitTests.ValueObjects.CustomFieldTypeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0e30362_002D6d95_002D4301_002D9c97_002Dffa20eba1a5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ToStringReturnsCode #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::65089635-56D1-43ED-8FC7-89FE1160C518::net7.0::DocumentStorage.Domain.UnitTests.ValueObjects.CustomFieldTypeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
